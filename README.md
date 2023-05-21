@@ -74,11 +74,3 @@ Contributions to the Log Routing Service project are welcome! If you have any su
 ## License
 
 This project is unlicensed.
-
----
-
-We hope you find the Log Routing Service useful for your log management needs. If you have any questions or need further assistance, please don't hesitate to contact us at *akash@sharefable.com* with the subject line *Assignment Backend A1 - Log Routing Service*.
-
-Thank you for your interest and happy logging!
-
-**
